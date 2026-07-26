@@ -1,17 +1,9 @@
-Hey There, I'm `Mahabub Ahmed`
+Hey There, 👋 I'm `Mahabub Ahmed`
 <br>
 <br>
-A passionate `Full-stack Developer`
+A passionate 💻 `Full-stack Developer`
 
+I'm passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real products, writing clean and maintainable code, and continuously learning new technologies.
 
-- 📫 How to reach me :
-* [My Resume](https://drive.google.com/file/d/1TKmVVznKcdl5fQDK5dOngOPKJ3YSIHXF/view?usp=sharing)
-* [Email: mahabub.ahmed175@gmail.com](mailto:mahabub.ahmed175@gmail.com)  
-* [Linked In](https://www.linkedin.com/in/mahabub-ahmed-683490278/)
+**Tech Stack:** React • Next.js • TypeScript • JavaScript • Typescript • Node.js • Express.js • NestJS • Fastify • Supabase • PostgreSQL • MySQL • MongoDB
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahabub-ahmed-683490278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahabub-ahmed-683490278/" height="30" width="40" /></a>
-<a href="https://fb.com/mahabub.ahmmed.52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahabub.ahmmed.52/" height="30" width="40" /></a>
-<a href="https://instagram.com/mahabub_tro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahabub_tro/" height="30" width="40" /></a>
-</p>
